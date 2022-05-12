@@ -1,0 +1,14 @@
+## Git Commands
+
+git add fileName
+git add .
+git commit -m "Message"
+git push origin main
+
+
+## Steps to remove directory
+
+git rm -r --cached FolderName
+git rm -r --cached ../.node_modules/
+git commit -m "Removed folder from repository"
+git push origin master
