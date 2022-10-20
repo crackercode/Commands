@@ -1,0 +1,68 @@
+kon2020corona
+Connect 172.105.118.252;password cod4oit246
+
+player_sustainammo 1
+timescale
+DEVMAP MP_CRASH
+
+tdm - connect 139.162.5.128:28960
+
+1234567890
+Androxus
+sH!t[B]3tta <3
+|W|e|s|p|e|n|
+|HyPer|NooB-+
+hellobitch999
+
+connect 91.121.21.210:1337
+
+/record 2017-11-03
+/stoprecord
+
+/rcon promod_mode pb_match_mr12
+/rcon promod_mode strat
+
+/rcon promod_mode knockout_mr12_4:7
+/rcon promod_mode knockout_mr12
+
+rcon g_password
+
+/rcon login yeiyeboi
+/rcon login annaposela321
+/rcon sv_hostname asela
+/rcon promod_mode match_mr12_pb
+
+
+set g_password yourpass
+/rcon map_restart
+/rcon set g_gametype sd
+/rcon set g_gametype dm free for all
+/rcon set g_gametype war
+
+
+
+/rcon set class_sniper_limit 3
+
+/ron g_password
+/rcon kick 2nd
+
+/rcon set rcon_password annaposela
+/rcon kick name
+
+/rcon map mp_crossfire
+/rcon map mp_strike
+
+bind W "+forward;sv_clientsidebullets 0; g_teamcolor_myteam 0.7 1 0 1; g_teamcolor_allies 0.7 1 0 1; g_teamcolor_axis 0.6 0.6 0.6 1; g_teamname_allies Attack; g_teamname_axis Defence"
+
+bind W "+forward;g_TeamColor_Axis .680 0.969 1 1;g_TeamColor_Allies 0.980 0.855 0.855 10;sv_ClientSideBullets 0"
+
+
+https://www.eservices.railway.gov.lk/
+
+bind W "+forward;g_TeamColor_Axis .680 0.969 1 1;g_TeamColor_Allies 0.980 0.855 0.855 10;sv_ClientSideBullets 0"
+
+sylaxx colour bind
+bind F5 "r_filmtweakbrightness 0;r_filmtweakcontrast 1.2;r_filmtweakdarktint 1.8 1.8 2;r_filmtweakdesaturation 0;r_filmtweakenable 1;r_filmtweaklighttint 0.8 0.8 1;r_filmTweakInvert 0;r_gamma 1.5;^3[^6MayWeMeetAgain(c)sylaxX^3]"
+
+suki bind
+bind F4 "r_gamma 1.2;r_filmTweakBrightness 0.3;r_filmTweakContrast 1.72;r_filmTweakDarkTint 1.7 1.67 1.9;r_filmTweakDesaturation 0;r_filmTweakEnable 1;r_filmTweakInvert 0;r_filmTweakLightTint 0.125 0.3 0.5;r_filmtweaks 1;r_filmUseTweaks 1"
