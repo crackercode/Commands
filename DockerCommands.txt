@@ -1,0 +1,9 @@
+docker pull flink
+docker images
+docker run -d -p 80:80 --name webserver nginx
+docker run -d -p 8081:8081 --name flink flink
+docker run --rm --name=jobmanager --network flink-network --publish 8081:8081 --env FLINK_PROPERTIES="${FLINK_PROPERTIES}" flink:latest flink
+docker run -d --name=jobmanager --publish 8081:8081 --env FLINK_PROPERTIES="${FLINK_PROPERTIES}" flink:latest flink
+
+
+
